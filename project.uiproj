@@ -1,0 +1,6 @@
+{
+  "Name": "UiPath_Classic_Solution",
+  "ProjectType": "Process",
+  "Description": "Classic Excel Application Scope Solution",
+  "MainFile": "Main.xaml"
+}
